@@ -21,12 +21,19 @@ The project includes:
 ## Project Structure
 
 ├── fruit_classifier_tl.py # Main Python script
+
 ├── MobileNetV2_fruit_classifier.h5 # Trained MobileNetV2 model
+
 ├── EfficientNetB0_fruit_classifier.h5 # Trained EfficientNetB0 model
+
 ├── DenseNet121_fruit_classifier.h5 # Trained DenseNet121 model
+
 ├── MobileNetV2_classification_report.txt # Classification report for MobileNetV2
+
 ├── EfficientNetB0_classification_report.txt # Classification report for EfficientNetB0
+
 ├── DenseNet121_classification_report.txt # Classification report for DenseNet121
+
 ├── README.md # This README file
 
 - `fruit_classifier_tl.py`: The main Python script containing all the code for data preparation, model training, evaluation, and visualization.
